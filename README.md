@@ -1,7 +1,3 @@
-Here’s a concise README focusing on the main aspects of your project: 
-
----
-
 # Library Management System
 
 A **Library Management System** built using **C++** and **MySQL** to manage book records and streamline library operations.
@@ -45,6 +41,3 @@ A **Library Management System** built using **C++** and **MySQL** to manage book
 ## Contribution
 Feel free to fork this repository, make improvements, and create a pull request. Suggestions are always welcome!
 
----
-
-Let me know if you need further customization!
